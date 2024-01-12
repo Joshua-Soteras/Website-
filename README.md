@@ -8,4 +8,7 @@ https://react.dev/learn
 
 ##Notes
 - components : a piece of the UI
-  - made 
+  - javascript functions
+    '''
+      <MyButton />
+    '''
