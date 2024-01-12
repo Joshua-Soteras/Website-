@@ -2,15 +2,15 @@
 Visit https://docs.github.com/en/github-ae@latest/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings  
 
  
-##Roadmap
+## Roadmap
 1. HTML and CSS (January)
 2. Javascript (Janauary)
 3. React (Feb) 
 4. Backend (do some research) (March) 
 
-#JavaScript Basics
+# JavaScript Basics
 
-##Javascirpt Background Information
+## Javascirpt Background Information
 - A scripting lanugage: interpreted rather than compiled
   - Interpreted Language: excecuted line by line by an interpreter (ex: a web-browser)
     - Interpretation happens at runtime; no need for a compilation process before running the program
@@ -27,10 +27,10 @@ Visit https://docs.github.com/en/github-ae@latest/get-started/writing-on-github/
       3. Dynamic Code Execution
       4. Reflection: allowing progmrans to inspect andmaniupulat ethier own structure at runtime 
 
-#DataTypes
+# DataTypes
 
 
-#printing to console
+# printing to console
 
 #Creating Strings 
 
