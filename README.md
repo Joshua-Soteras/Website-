@@ -9,6 +9,6 @@ https://react.dev/learn
 ##Notes
 - components : a piece of the UI
   - javascript functions
-    '''
+    ```
       <MyButton />
-    '''
+    ```
