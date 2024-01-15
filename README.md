@@ -27,14 +27,22 @@ Visit https://docs.github.com/en/github-ae@latest/get-started/writing-on-github/
       3. Dynamic Code Execution
       4. Reflection: allowing progmrans to inspect andmaniupulat ethier own structure at runtime 
 
-# DataTypes
+# DataTypes + Variables 
+- bits  of information are stored within **variables
+
+Data Types
+1. Numeric
+2. String
+3. Boolean
+
+## Creating an instances 
 
 
 # printing to console
 
-#Creating Strings 
+# Creating Strings 
 
-##Different types of for loops
+## Different types of for loops
 1. for
 ```
 for (let i = 0; i < cars.length; i++) {
