@@ -8,6 +8,7 @@ IDE(s)
 
 Extensions:  
   1. Live Server: allows us to view our html and css changes in real time
+    - Source: https://www.youtube.com/watch?v=_Tl-6HeV0Rc 
   2. JavaScript: Code Snippets: working with js code 
   3. Bootstrap: ?
   
