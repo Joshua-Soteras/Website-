@@ -11,9 +11,11 @@ Extensions:
      - Source: https://www.youtube.com/watch?v=_Tl-6HeV0Rc
      - _Live Server_ should be a button on bottom of window
      - To close the server: click on the button (port #) and should allow to close server
-     - Make sure to click on extension settings to customize further for personal use; i.e. default browser 
-  3. JavaScript: Code Snippets: working with js code 
-  4. Bootstrap: ?
+     - Make sure to click on extension settings to customize further for personal use; i.e. default browser
+      
+  2. JavaScript: Code Snippets: working with js code
+  
+  3. Bootstrap: ?
   
 Optional Extensions
   1. Error Lens - Highlights errors and warnings inline rather than having to hover over red swiggly lines to inspect the error/warning
