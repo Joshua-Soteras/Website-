@@ -8,9 +8,9 @@ IDE(s)
 
 Extensions:  
   1. Live Server: allows us to view our html and css changes in real time
-    - Source: https://www.youtube.com/watch?v=_Tl-6HeV0Rc 
-  2. JavaScript: Code Snippets: working with js code 
-  3. Bootstrap: ?
+     - Source: https://www.youtube.com/watch?v=_Tl-6HeV0Rc 
+  3. JavaScript: Code Snippets: working with js code 
+  4. Bootstrap: ?
   
 Optional Extensions
   1. Error Lens - Highlights errors and warnings inline rather than having to hover over red swiggly lines to inspect the error/warning
