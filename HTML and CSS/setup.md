@@ -8,7 +8,10 @@ IDE(s)
 
 Extensions:  
   1. Live Server: allows us to view our html and css changes in real time
-     - Source: https://www.youtube.com/watch?v=_Tl-6HeV0Rc 
+     - Source: https://www.youtube.com/watch?v=_Tl-6HeV0Rc
+     - _Live Server_ should be a button on bottom of window
+     - To close the server: click on the button (port #) and should allow to close server
+     - Make sure to click on extension settings to customize further for personal use; i.e. default browser 
   3. JavaScript: Code Snippets: working with js code 
   4. Bootstrap: ?
   
