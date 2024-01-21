@@ -1,11 +1,25 @@
-# Usin Git Command lll
-Adding  a new SSH key to your Github account
-  - used for for private repositories 
-  - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+# Git + Github
+Date:  1/21/24 
+
+## Setting up SSH Keys 
+Overview: 
+- Allows for ease of access; no need to enter creditials every single time
+- Secure Communication
+- auth: access to repo / sign: signing commits
+  
+0. About SSH
+  - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh 
 
 1. Check for existing SSH key
-2. Generate a new SSH key - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
-3. 
-4.  
 
+2. Generate a new SSH key
+  - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+3. Adding a new SSH key tp 
+  - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+4. About commit Signature Verifivation
+- https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification
+
+  
 
