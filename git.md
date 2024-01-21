@@ -6,6 +6,7 @@ Overview:
 - Allows for ease of access; no need to enter creditials every single time
 - Secure Communication
 - auth: access to repo / sign: signing commits
+- in order to push, you need to prove that you are the owner of the account; SSH keys allow this 
   
 0. About SSH
   - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh 
