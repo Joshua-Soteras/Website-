@@ -25,3 +25,15 @@ Overview:
 ## Commands 
 The "git remote -v" command is used in Git to view the remote repositories associated with your local repository. It displays the URLs of the remote repositories along with their corresponding fetch and push URLs
 ``` git remote -v``` 
+
+## Stages of Pushing 
+
+``` git add \\insert name of file ```
+- stage your files and changes for a _commit_
+- track your files and changes
+- If you created a new file within the repo, then Git to track this file to commit
+-	note: use '.'  to add all files / otherwise, you can just state the individual files
+  - git add . #all files and folders
+  -  git add index.html #individual files
+
+``` git commit -m \\insert message here```
