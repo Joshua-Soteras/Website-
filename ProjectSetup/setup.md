@@ -16,6 +16,19 @@ Extensions:
   2. JavaScript: Code Snippets: working with js code
   
   3. Bootstrap: ?
+
+  4. HTML CSS Support 
+    - HTML id and class attribute completion.
+    - Supports specifying remote and local style sheets for completion.
+    - Supports any language for completion.
+    - Supports go to definition for selectors.
+    - Validates CSS selectors on demand.
+
+  5. IntelliSense for CSS class names in HTML
+    - A Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on the definitions found in your workspace or external files referenced through the link element.
+  
+  6. HTML Boilerplate 
+    - Creates HTML basic page structure 
   
 Optional Extensions
   1. Error Lens - Highlights errors and warnings inline rather than having to hover over red swiggly lines to inspect the error/warning
