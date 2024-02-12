@@ -8,11 +8,14 @@ in order
 - right
 - bot
 - left
-  
+- Note: think of margin as a spacer in regards to other elements 
+
+
 ##padding
 margin : top, right, bot, left
 - note to put spacing in between the current element in respect to its container use padding 
-
+- padding: think of the "margin" of inside the element. push or pull elements within the container
+  
 ## Overview 
   - elements "flows" from left to right, and top to bottom
   - 
