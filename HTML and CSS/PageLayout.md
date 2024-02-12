@@ -1,6 +1,17 @@
 ## Accessibility Features of CSS 
 - https://www.w3.org/TR/CSS-access/
 
+margin > border > padding
+##margin parameters
+in order
+- top
+- right
+- bot
+- left
+  
+##padding
+margin : top, right, bot, left
+- note to put spacing in between the current element in respect to its container use padding 
 
 ## Overview 
   - elements "flows" from left to right, and top to bottom
