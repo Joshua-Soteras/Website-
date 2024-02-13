@@ -20,7 +20,9 @@ More
 - Starter template / Official Website 
   - https://getbootstrap.com/ 
   - https://getbootstrap.com/docs/4.5/getting-started/introduction/
-    
+
+ctrl a + k + f 
+
 ## BootStrap Overview 
 - Layout
 - Components: various pre-built UI
@@ -28,6 +30,13 @@ More
 - Content: structures that contains content like tables
 - Utilities: convenient and/or responsive ways to control various element properties like border, spacing, and visibility
 - Icons: use icon sets
+
+### Grid
+- .row
+- .col
+- .col-<n>
+- .col-<device>-<n>
+- 
 
 ### Responsive Containers
 . container 
@@ -37,3 +46,13 @@ More
 ### Make It Respond 
 ### Componnent: Navbar
 ### ```data - *``` Attributes
+### ```aria-*``` Attributes 
+### Forms and Tables
+### About Bootstrap Utilities 
+### Utilities Border 
+### Utilities : margin and Padding
+### Color and Color Theme
+### Utility : Display
+### Show/HIde Elements Responsively 
+### Icon Sets
+### USe Bootstrap ICons
