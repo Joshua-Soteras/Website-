@@ -36,7 +36,11 @@ ctrl a + k + f
 - .col
 - .col-<n>
 - .col-<device>-<n>
-- 
+
+```
+<div class =  "col -12 col-md-6 col-kg-6"> 
+-
+```
 
 ### Responsive Containers
 . container 
