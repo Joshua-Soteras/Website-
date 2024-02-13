@@ -22,7 +22,7 @@ More
   - https://getbootstrap.com/docs/4.5/getting-started/introduction/
     
 ## BootStrap Overview 
--Layout
+- Layout
 - Components: various pre-built UI
 - components like buttons
 - Content: structures that contains content like tables
