@@ -29,7 +29,11 @@ More
 - Utilities: convenient and/or responsive ways to control various element properties like border, spacing, and visibility
 - Icons: use icon sets
 
-### Responsive Container 
+### Responsive Containers
 . container 
 .conainer-fluid 
-  
+
+### Make It Responsive 
+### Make It Respond 
+### Componnent: Navbar
+### '''data - *''' Attributes
