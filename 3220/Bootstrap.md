@@ -41,6 +41,12 @@ ctrl a + k + f
 <div class =  "col -12 col-md-6 col-kg-6"> 
 -
 ```
+Six Repsonsive break points
+- breakpoints are based on min-width mediaq quereies
+  - each breakpoint hold containers whose widths are multiples of 12
+
+The Six breakPonits
+- none: efffectively removes any styling rules that would normmaly apply at all breakpoints
 
 ### Responsive Containers
 . container 
