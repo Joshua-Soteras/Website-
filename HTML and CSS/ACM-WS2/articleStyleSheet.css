@@ -1,0 +1,44 @@
+
+/*
+    Showcases that all p (paregraph) elements will apply the color blue 
+    This also helps visualize WHY its called cascading style sheets
+    all the elements within p will also inherit the parent elements properties unless defined 
+*/
+/*
+p{
+    color: blue; 
+}
+*/
+
+/*
+    Using ID: an example
+        - target a UNIQUE/SPECIFIC element on the page
+        - the specific element with this id value will be changed 
+        - this also showcases properties you could change
+*/
+#header2 {
+
+    /* color of text will be changed to green */
+    color:green ;
+
+    /*adding a border to the elemeent */
+    border: 2px solid; 
+    
+}
+
+
+/*
+    Using class: an example
+        - target a GROUP of elements
+        - all elements that have this class value "colorOrange" will have these properties changed
+            - in this case the property color 
+            - yes: does take rgba and hexcolor values 
+*/
+.colorOrange {
+
+    color: orange;
+
+    /*font-style:italic; */
+
+
+}
