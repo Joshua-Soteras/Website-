@@ -33,6 +33,10 @@ Overview:
 
 
 ## Commands 
+_**git status **_
+can check
+- if the local repo has been initialized 
+_**git remote**_
 The "git remote -v" command is used in Git to view the remote repositories associated with your local repository. It displays the URLs of the remote repositories along with their corresponding fetch and push URLs
 ``` git remote -v``` 
 
