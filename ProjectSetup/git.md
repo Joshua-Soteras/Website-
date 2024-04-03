@@ -16,7 +16,8 @@ Overview:
   - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh 
 
 1. Check for existing SSH key
-- https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys 
+- https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys
+- ~/.ssh/id_ed25519.pub 
 
 2. Generate a new SSH key
   - Source: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
