@@ -1,5 +1,6 @@
 # Git + Github
 Date:  1/21/24 
+Last Updated: 4/2/24
 
 ## Intro: The Difference between Git and Github
 **Git**: a distributed version control systems i.e. a tool that allows a user to keep track of changes in their codebase. Used to collborate with others and manage different versions of their code <br>
@@ -43,7 +44,15 @@ _**git remote**_ <br>
 ``` git remote -v``` 
 
 ## Working with Git + Github
+### Setting Up Local Repo 
+- ``` git init```
+   - used to initialize a new Git Repository in an existing directory
+   - sets up the necessarry data structures and files in the current dir. (folder) where it stores metadata and history to allow version control.
 
+- ```git clone "url"```
+  - when using this command in whichever directory (folder) you are going to clone locally, the directory will be initialized by default
+  - clones the remote repo into the designated local repo 
+     
 ### Linking from Local to Remote
 - ```git remote add```
   - takes two arguments: a remote name; example is _origin_
@@ -55,7 +64,7 @@ _**git remote**_ <br>
 - ```git remote set-url origin https....insertURLhere```
   - change your remote's URL from SSH to HTTPS
     
-###Pushing your work to a Remote Repository (GitHub) 
+### Pushing your work to a Remote Repository (GitHub) 
 ``` git add \\insert name of file ```
 - stage your files and changes for a _commit_
 - track your files and changes
