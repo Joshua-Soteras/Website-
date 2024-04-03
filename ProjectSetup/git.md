@@ -24,7 +24,7 @@ Overview:
   - Source: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
 3. Adding a new SSH key tp 
-  -Soruce: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+  - Source : https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
 4. About commit Signature Verifivation
 - https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification
@@ -32,7 +32,8 @@ Overview:
 5. mananging remote repo
 - https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh
 - helps understanding changing from remote destination (from local to remote "address")
-
+6. Testing SSH connection
+  - source: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection 
 
 ## Commands 
 _**git status**_<br> 
