@@ -29,20 +29,33 @@ Overview:
 - https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification
 
 5. mananging remote repo
-- https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh 
+- https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh
+- helps understanding changing from remote destination (from local to remote "address")
 
 
 ## Commands 
-_**git status**_
-can check
+_**git status**_<br> 
+Can Verify the following: 
 - if the local repo has been initialized
-<br> 
-_**git remote**_
-The "git remote -v" command is used in Git to view the remote repositories associated with your local repository. It displays the URLs of the remote repositories along with their corresponding fetch and push URLs
+
+_**git remote**_ <br>
+- The ```git remote -v```command is used in Git to view the remote repositories associated with your local repository. It displays the URLs of the remote repositories along with their corresponding fetch and push URLs
 ``` git remote -v``` 
 
-## Stages of Pushing 
+## Working with Git + Github
+- ```git remote add```
+  - takes two arguments: a remote name; example is _origin_
+  - a remote URL
+  - example : ```git remote add origin https://github.com/OWNER/REPOSITORY.git```
+- ```git remote -v```
+  - list the exisiting remote repos
+  - can verify if URL remote has changed 
+- ```git remote set-url origin https....insertURLhere```
+  - change your remote's URL from SSH to HTTPS 
+## Pushing your work to a Remote Repository (GitHub) 
+```
 
+### Stages of Pushing 
 ``` git add \\insert name of file ```
 - stage your files and changes for a _commit_
 - track your files and changes
