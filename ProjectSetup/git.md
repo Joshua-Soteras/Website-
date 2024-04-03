@@ -43,6 +43,8 @@ _**git remote**_ <br>
 ``` git remote -v``` 
 
 ## Working with Git + Github
+
+### Linking from Local to Remote
 - ```git remote add```
   - takes two arguments: a remote name; example is _origin_
   - a remote URL
@@ -51,11 +53,9 @@ _**git remote**_ <br>
   - list the exisiting remote repos
   - can verify if URL remote has changed 
 - ```git remote set-url origin https....insertURLhere```
-  - change your remote's URL from SSH to HTTPS 
-## Pushing your work to a Remote Repository (GitHub) 
-```
-
-### Stages of Pushing 
+  - change your remote's URL from SSH to HTTPS
+    
+###Pushing your work to a Remote Repository (GitHub) 
 ``` git add \\insert name of file ```
 - stage your files and changes for a _commit_
 - track your files and changes
