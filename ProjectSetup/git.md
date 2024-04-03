@@ -18,10 +18,14 @@ Overview:
 1. Check for existing SSH key
 
 2. Generate a new SSH key
-  - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+  - Source: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
 3. Adding a new SSH key tp 
-  - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+  -Soruce: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+4. Checking if exisiting ssh keys
+- Source: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys
+- 
 
 4. About commit Signature Verifivation
 - https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification
