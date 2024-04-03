@@ -1,7 +1,7 @@
 # Git + Github
 Date:  1/21/24 
 
-# Intro: The differnece between git and github
+## Intro: The Difference between Git and Github
 **Git**: a distributed version control systems i.e. a tool that allows a user to keep track of changes in their codebase. Used to collborate with others and manage different versions of their code <br>
 **Github**: web based hosting service ofr Git repos. Provides devleopers to store their Git repos. 
 
