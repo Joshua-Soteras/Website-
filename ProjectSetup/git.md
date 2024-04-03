@@ -27,6 +27,10 @@ Overview:
 4. About commit Signature Verifivation
 - https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification
 
+5. mananging remote repo
+- https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh 
+
+
 ## Commands 
 The "git remote -v" command is used in Git to view the remote repositories associated with your local repository. It displays the URLs of the remote repositories along with their corresponding fetch and push URLs
 ``` git remote -v``` 
