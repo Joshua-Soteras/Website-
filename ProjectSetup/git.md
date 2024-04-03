@@ -1,4 +1,4 @@
-# Git + Github
+ # Git + Github
 Date:  1/21/24 
 Last Updated: 4/2/24
 
@@ -75,3 +75,7 @@ _**git remote**_ <br>
   -  git add index.html #individual files
 
 ``` git commit -m \\insert message here```
+
+
+
+https://code.visualstudio.com/docs/sourcecontrol/overview
