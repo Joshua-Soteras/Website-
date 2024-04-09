@@ -53,7 +53,12 @@ _**git remote**_ <br>
 - ```git clone "url"```
   - when using this command in whichever directory (folder) you are going to clone locally, the directory will be initialized by default
   - clones the remote repo into the designated local repo 
-     
+
+### Managing Remote Repositories  
+- ``` git remote rm nameOfDestination```
+   - takes one argument: nameOfDestination (use git remote -v to see list) 
+
+
 ### Linking from Local to Remote
 - ```git remote add```
   - takes two arguments: a remote name; example is _origin_
