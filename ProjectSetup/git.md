@@ -54,7 +54,7 @@ _**git remote**_ <br>
   - when using this command in whichever directory (folder) you are going to clone locally, the directory will be initialized by default
   - clones the remote repo into the designated local repo 
 
-### Managing Remote Repositories  
+### Managing Remote Repositories 
 - ``` git remote rm nameOfDestination```
    - takes one argument: nameOfDestination (use git remote -v to see list) 
 
@@ -71,15 +71,25 @@ _**git remote**_ <br>
   - change your remote's URL from SSH to HTTPS
     
 ### Pushing your work to a Remote Repository (GitHub) 
-``` git add \\insert name of file ```
-- stage your files and changes for a _commit_
-- track your files and changes
-- If you created a new file within the repo, then Git to track this file to commit
--	note: use '.'  to add all files / otherwise, you can just state the individual files
-  - git add . #all files and folders
-  -  git add index.html #individual files
+
+Source: https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository <br>
+
+- ``` git add \\insert name of file ```
+ - stage your files and changes for a _commit_
+ - track your files and changes
+ - If you created a new file within the repo, then Git to track this file to commit
+ -	note: use '.'  to add all files / otherwise, you can just state the individual files
+   - git add . #all files and folders
+   -  git add index.html #individual files
 
 ``` git commit -m \\insert message here```
+
+- ```git push --set-upstream origin master```
+  - git push : pushes your local commits to the remote repo
+  - ```--set-upstream```: can use ```-u``` for short. Sets up tracking information between your local branch and remote branch
+  - ``` origin``` specifies the remote repo. origin is the default name given when you clone a repot. It could be a URL pointing to a remote repo or a name that represents a remote repo.
+  - ```master``` specifices the local branch you want to push.
+  - After this, just use git push 
 
 
 
