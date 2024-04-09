@@ -87,10 +87,12 @@ Source: https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-re
 - ```git push --set-upstream origin master```
   - git push : pushes your local commits to the remote repo
   - ```--set-upstream```: can use ```-u``` for short. Sets up tracking information between your local branch and remote branch
-  - ``` origin``` specifies the remote repo. origin is the default name given when you clone a repot. It could be a URL pointing to a remote repo or a name that represents a remote repo.
+  - ``` origin``` specifies the remote repo. origin is the default name given when you clone a repo. It could be a URL pointing to a remote repo or a name that represents a remote repo.
   - ```master``` specifices the local branch you want to push.
   - After this, just use git push 
 
-
+Questions about have different commit history
+better to clone then set up stream 
+https://stackoverflow.com/questions/23344320/there-isnt-anything-to-compare-nothing-to-compare-branches-are-entirely-diffe
 
 https://code.visualstudio.com/docs/sourcecontrol/overview
