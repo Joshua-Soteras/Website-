@@ -43,4 +43,22 @@ while( rs.next() ){
 
 
 ## Object-Relational Mapping (ORM) Approach (Better Approach/Method) 
-- 
+### Breaking it down
+![image](https://github.com/Joshua-Soteras/Website-/assets/100913169/d834f3f6-a3ad-45b1-828a-a257a426d8bb)
+
+- ORM Library sits between the application and relational databases
+- allows us to deal with the objects without having to worry about how the objects are stored
+
+  ### Java Persistance API
+  - Annotations for object-relational mapping
+  - Data Access API
+ 
+## Using JPA within the given Lab
+### Install Dependencies (When creating a new project) 
+1. Apache Freemarker
+2. Spring Boot DevTools
+3. Spring Web Validation
+5. MySQL Driver
+6. Spring Data JPA
+
+   
