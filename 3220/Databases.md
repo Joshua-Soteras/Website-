@@ -21,15 +21,26 @@
 - JDBC -> JDBC Driver -> Server
 
 ### Example of JDBC
-```String sql = "
+```
+String sql = "
 select * from employees";
 Connection c = DriverManager.getConnection( url );
 Statement stmt = c.createStatement();
 ResultSet rs = stmt.executeQuery( sql );
 List<Employee> employees = new ArrayList<Employee>();
 while( rs.next() ){
-employees.add(new Employee( rs.getInt("id"),
-rs.getString("first_name"), rs.getString("last_name"),
-rs.getInt("supervisor_id")
-);
-}```
+  employees.add(new Employee( rs.getInt("id"),
+  rs.getString("first_name"), rs.getString("last_name"),
+  rs.getInt("supervisor_id")
+  );
+}
+``` 
+
+### mistmatch between 00 Class Design and Relationaal Schema
+- an employe object cannot be stored in a relational databases 
+- Must Reference using ID
+- tedious code to conver btween objects and schema
+
+
+## Object-Relational Mapping (ORM) Approach (Better Approach/Method) 
+- 
