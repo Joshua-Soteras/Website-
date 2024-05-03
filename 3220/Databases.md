@@ -54,6 +54,10 @@ while( rs.next() ){
   - Data Access API
  
 ## Using JPA within the given Lab
+Steps and process in order to 
+1. Install Dependencies
+2. Applicaiton Properties
+3. Mapping (Using Annotations) 
 
 ### Install Dependencies (When creating a new project) 
 1. Apache Freemarker
