@@ -1,5 +1,5 @@
 ## Client Vs. Server
-## Client
+###Client
 - MySql
 - MySQL Workbench
 - Adminer 
@@ -12,3 +12,24 @@
 - in order to interact with the databases, a library is needed
 
 ![image](https://github.com/Joshua-Soteras/Website-/assets/100913169/116deb77-bbc5-4321-87f0-e453bbb04b0e)
+
+
+## Java Database Connectivity (JDBC) 
+- The library that allows us to connect to the databases
+
+### The components
+- JDBC -> JDBC Driver -> Server
+
+### Example of JDBC
+```String sql = "
+select * from employees";
+Connection c = DriverManager.getConnection( url );
+Statement stmt = c.createStatement();
+ResultSet rs = stmt.executeQuery( sql );
+List<Employee> employees = new ArrayList<Employee>();
+while( rs.next() ){
+employees.add(new Employee( rs.getInt("id"),
+rs.getString("first_name"), rs.getString("last_name"),
+rs.getInt("supervisor_id")
+);
+}```
