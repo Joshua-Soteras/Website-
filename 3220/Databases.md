@@ -53,8 +53,8 @@ while( rs.next() ){
   - Annotations for object-relational mapping
   - Data Access API
  
-## Using JPA within the given Lab
-Steps and process in order to 
+## Using JPA within the Given Lab
+Steps and process: 
 1. Install Dependencies
 2. Applicaiton Properties
 3. Mapping (Using Annotations) 
@@ -127,12 +127,17 @@ spring.jpa.generate-ddl=true
   - this annotation: want to generate values for the Id field
   - 
 
-### (Creating a new project) 
+### (Creating a new project / just a reminder) 
 - New
 - Project
 - Spring start
 -  install dependencies
 
+### Create Repository 
+-create an interface that extends  Crud Repositiry<T,ID>
+- CRUD: Create, Read, Update, Delete
+- create a new interface in java
+  - Example: GuestBookEntryRepository extneds Crud
 
 
    
